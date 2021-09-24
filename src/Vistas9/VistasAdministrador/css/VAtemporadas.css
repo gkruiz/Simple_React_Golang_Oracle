@@ -1,0 +1,48 @@
+
+#VAtemporada1{
+ position:absolute;
+ background:white;
+ width:97%;
+ height:95%;
+ border-radius:10px 10px 10px 10px;
+}
+
+
+#VAtcolumnab1{
+ text-align:center;
+ width:30%;
+}
+#VAtcolumnab2{
+ text-align:center;
+ width:70%;
+}
+
+
+
+
+#VAttabla5{
+ position:relative;
+ width:100%;
+ height:100%;
+ border: 1px green solid;
+}
+
+
+#VAtfilab1{
+ width:50%;
+ height:10%;
+
+}
+#VAtcolumnab3{
+ text-align:center;
+ width:40%;
+}
+
+
+
+
+
+
+
+
+
